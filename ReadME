@@ -1,0 +1,5 @@
+To run the tests change the login.properties file with your  login information.
+I have added four fields, one for email, one for password one for organization email and one for invalid login.
+Also you will need to change the path of the properties file as it as an absolute path in my local.
+To execute the test right click on the test and run as a junit test.
+
